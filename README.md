@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @ChrystianMSC
-welcome to my repository :)
+welcome to my profile :)
