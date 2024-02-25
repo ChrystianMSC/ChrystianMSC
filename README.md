@@ -12,5 +12,7 @@ Se você está procurando um desenvolvedor fullstack apaixonado, resiliente e or
 ## Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ChrystianMSC&show_icons=true&theme=dark)
+![Linguagens Mais Populares](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrystianMSC&layout=compact&langs_count=7&theme=dark)
+
 
 Mal posso esperar para colaborar e fazer parte de projetos incríveis que impulsionam o mundo digital para frente. Vamos fazer a diferença juntos!
