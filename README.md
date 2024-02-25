@@ -13,10 +13,6 @@ Se você está procurando um desenvolvedor fullstack apaixonado, resiliente e or
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ChrystianMSC&show_icons=true&theme=dark)
 
-## Contribuições
-
-![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=ChrystianMSC&theme=dark)
-
 ## Linguagens Mais Populares
 
 ![Linguagens Mais Populares](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrystianMSC&layout=compact&langs_count=7&theme=dark)
