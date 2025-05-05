@@ -4,7 +4,7 @@ welcome to my profile :)
 
 ## Entre em Contato
 
-Se você está procurando um desenvolvedor fullstack apaixonado, resiliente e orientado para soluções, estou sempre aberto a novas oportunidades e desafios. Vamos conectar ideias e criar soluções digitais impactantes juntos.
+If you're looking for a passionate, resilient, and solution-oriented fullstack developer, I'm always open to new opportunities and challenges. Let's connect ideas and build impactful digital solutions together.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chrystian-martins/)
 [![Gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chrystianmsc@gmail.com)
@@ -15,4 +15,4 @@ Se você está procurando um desenvolvedor fullstack apaixonado, resiliente e or
 
 
 
-Mal posso esperar para colaborar e fazer parte de projetos incríveis que impulsionam o mundo digital para frente. Vamos fazer a diferença juntos!
+I can’t wait to collaborate and be part of amazing projects that drive the digital world forward. Let’s make a difference together!
